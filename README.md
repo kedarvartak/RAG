@@ -111,14 +111,6 @@ Set your `GOOGLE_API_KEY` as an environment variable.
 
 Alternatively, update the key directly in `app.py` if the application is configured to allow that.
 
-### 5. Setup Ollama (If Using Local LLM)
-
-Ensure Ollama is running and the required model is pulled:
-
-```bash
-ollama pull mistral
-```
-
 ## Running the Application
 
 Start the Flask server:
