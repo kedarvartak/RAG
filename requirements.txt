@@ -1,0 +1,7 @@
+Flask
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+rank_bm25
+sentence-transformers 
